@@ -1,0 +1,18 @@
+{
+  "name": "festival-lost-found-chat",
+  "version": "1.0.0",
+  "description": "대학 행사 실시간 분실물 센터 채팅 서비스",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "multer": "^2.5.0",
+    "socket.io": "^4.7.5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
